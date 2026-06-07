@@ -18,4 +18,3 @@ Enterprise networking project implemented using Cisco Packet Tracer.
 ## Tools
 
 - Cisco Packet Tracer
-- Cisco IOS
