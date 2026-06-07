@@ -1,20 +1,28 @@
 # Enterprise Multi-Site Network Design
 
-Enterprise networking project implemented using Cisco Packet Tracer.
+Enterprise-level network designed using Cisco Packet Tracer.
 
 ## Features
 
-- EIGRP
-- HSRP
-- VLANs
-- ACLs
-- DHCP
-- PAT
-- STP
+- EIGRP Routing
+- HSRP Redundancy
+- VLAN Segmentation
+- ACL Security Policies
+- DHCP Services
+- PAT Configuration
 - EtherChannel
-- SSH
+- STP Root and Secondary Switches
+- SSH Hardening
 - Site-to-Site VPN
 
-## Tools
+## Technologies
 
 - Cisco Packet Tracer
+
+## Skills Demonstrated
+
+- Routing & Switching
+- Network Security
+- Network Design
+- Troubleshooting
+- Enterprise Infrastructure
